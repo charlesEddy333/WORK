@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    background-color: gold;
+    width: 100%;
+    height: 800px;
+
+    
+}
+
+.logo{
+    float: left;
+    color: white;
+    margin-top: 40px;
+    padding-left: 190px;
+    margin-bottom: 40px;
+
+}
+.a{
+    clear: both;
+    float: right;
+    margin-top: -20px ;
+    margin-right:  100px;
+
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+audio{
+    margin-top: 200px;
+    margin-left: 130px;
+}
+
